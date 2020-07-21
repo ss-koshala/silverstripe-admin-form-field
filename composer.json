@@ -1,0 +1,12 @@
+{
+  "name": "ss-silverstripers/silverstripe-admin-form-field",
+  "description": "custom admin form fields",
+  "type": "silverstripe-vendormodule",
+  "keywords": ["silverstripe", "admin", "forms", "fields"],
+  "license": "BSD-3-Clause",
+  "require":
+  {
+    "silverstripe/framework": "~4.0"
+  }
+
+}
