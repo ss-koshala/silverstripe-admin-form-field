@@ -1,5 +1,5 @@
 {
-  "name": "ss-silverstripers/silverstripe-admin-form-field",
+  "name": "ss-koshala/silverstripe-admin-form-field",
   "description": "custom admin form fields",
   "type": "silverstripe-vendormodule",
   "keywords": ["silverstripe", "admin", "forms", "fields"],
